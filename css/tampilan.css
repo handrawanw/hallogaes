@@ -1,0 +1,10 @@
+.image-border {
+    background-color:#fff;
+    border:5px solid  #00bfd8;    
+    height:auto;
+    border-radius:100%;
+    -moz-border-radius:100%;
+	-webkit-border-radius:100%;
+	background-size:100% 100%;
+    width: 100%;
+}
